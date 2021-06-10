@@ -1,0 +1,58 @@
+body {
+    overflow-x: hidden;
+}
+
+.max {
+    max-width: 1366px;
+    margin: 0 auto;
+}
+
+.links {
+    width: 250px;
+}
+.title {
+    margin: 100px 0 50px;
+}
+.title h2 {
+    font-size: 162px;
+    top: -135px
+}
+/* Features  */
+.feature {
+    width: 25%;
+}
+/* End - Features  */
+
+/* Services */
+.services {
+    margin-bottom: 20px;
+    width: 60%;
+    gap: 10px
+}
+
+.services .service {
+    width: 48%;
+}
+.services-items .services-img {
+    max-width: 30vw;
+}
+/* End - Services */
+
+/* Portfolio */
+.projects {
+    gap: 10px
+}
+
+.project {
+    width: 32%;
+}
+/* End - Portfolio */
+/* About */
+.about .description {
+    padding-left: 30px;
+}
+/* End - About */
+
+.contact {
+    margin-bottom: 30px;
+}

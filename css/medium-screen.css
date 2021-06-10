@@ -1,0 +1,37 @@
+.title {
+    margin: 100px 0 50px;
+}
+
+.title h2 {
+    font-size: 162px;
+    top: -135px
+}
+/* Features  */
+.feature {
+    width: 33%;
+}
+/* End - Features  */
+
+/* Services */
+.services {
+    margin-bottom: 20px;
+}
+
+.services .service {
+    width: 48%
+}
+/* End - Services */
+
+/* Portfolio */
+.projects {
+    gap: 10px
+}
+
+.project {
+    width: 32%;
+}
+/* End - Portfolio */
+
+.about .description {
+    padding-left: 30px;
+}
